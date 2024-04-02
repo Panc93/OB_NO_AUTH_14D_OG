@@ -1,0 +1,28 @@
+
+from sklearn.feature_selection import VarianceThreshold
+import numpy as np
+
+# Assuming X is your feature matrix (numpy array or pandas DataFrame)
+# Replace X with your actual feature matrix
+src=r'C:\Users\ParnikaPancholi\PycharmProjects\OB_NO_AUTH_14D\OB_NO_AUTH_14D_OG\data\interim'
+indsn= 'OB_NO_AUTH24_14D_V1'
+input_df = pd.read_pickle(r"{}\{}.pkl".format(str(src), str(indsn)))
+
+col_details = pd.read_excel(r"{}\{}_clmn_dtls.xlsx".format(str(src), str(indsn)))
+# Instantiate the VarianceThreshold object
+selector = VarianceThreshold()
+
+ar_num_list = col_details[col_details.UNIVAR_TYPE.isin(['NUM'])].VAR_NAME
+# Fit the selector to your data (calculate variances)
+selector.fit(input_df[ar_num_list])
+
+# Get the indices of features with non-zero variances
+non_zero_variance_indices = selector.get_support(indices=True)
+
+# Get the variances of the selected features
+selected_variances = selector.variances_
+selector.feature_names_in_
+# Print the selected features and their variances
+print("Selected Features:")
+for index in non_zero_variance_indices:
+    print("Feature", index, "- Variance:", selected_variances[index])

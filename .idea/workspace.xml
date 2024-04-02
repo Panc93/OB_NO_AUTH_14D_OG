@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea2137d1-bc31-4baa-8c53-39922786b2ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/OB_NO_AUTH_14D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/Config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/Db_connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/reports/Code_run_outputs.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/shap_df_sort_index_ascending_True.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/Data_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/Make_training_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/Univariate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features/Bivariate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features/Data_encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features/Univariate_feat_selection" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/models/Modifying old code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xgboost_14d_tr76_ts74_v0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_cv_MdGaRaSu_output1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_cv_Na_la_lr_output1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_cv_Na_la_lr_output2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_cv_all_output2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Connection.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/make_dataset.py" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OB_NO_AUTH_14D_OG/data/raw/Data_imputation.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dK7wel5GYtByx5YzSeTSkdAs8Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Bivariate.executor": "Run",
+    "Python.Data_dictionary.executor": "Run",
+    "Python.Data_encoding.executor": "Run",
+    "Python.Data_imputation.executor": "Run",
+    "Python.Make_training_dataset.executor": "Run",
+    "Python.Univariate.executor": "Run",
+    "Python.build_features.executor": "Run",
+    "Python.make_dataset.executor": "Run",
+    "Python.train_model.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ParnikaPancholi/PycharmProjects/OB_NO_AUTH_14D/OB_NO_AUTH_14D_OG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "pyconsole",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "snowflake"
+    ]
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ParnikaPancholi\PycharmProjects\OB_NO_AUTH_14D\OB_NO_AUTH_14D_OG\src\features" />
+      <recent name="C:\Users\ParnikaPancholi\PycharmProjects\OB_NO_AUTH_14D\OB_NO_AUTH_14D_OG\src\data" />
+      <recent name="C:\Users\ParnikaPancholi\PycharmProjects\OB_NO_AUTH_14D\OB_NO_AUTH_14D_OG\src" />
+      <recent name="C:\Users\ParnikaPancholi\PycharmProjects\OB_NO_AUTH_14D" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2137d1-bc31-4baa-8c53-39922786b2ec" name="Changes" comment="" />
+      <created>1709745157207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709745157207</updated>
+      <workItem from="1709745170473" duration="4000" />
+      <workItem from="1709745401914" duration="5612000" />
+      <workItem from="1709751205791" duration="11113000" />
+      <workItem from="1710258099802" duration="80965000" />
+      <workItem from="1711381049330" duration="3725000" />
+      <workItem from="1711389310523" duration="5829000" />
+      <workItem from="1711396131556" duration="2268000" />
+      <workItem from="1711401000734" duration="19868000" />
+      <workItem from="1711551734740" duration="5572000" />
+      <workItem from="1711569861654" duration="4806000" />
+      <workItem from="1711635194073" duration="2702000" />
+      <workItem from="1711643027895" duration="36811000" />
+      <workItem from="1711978435595" duration="19400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/Main.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/Make_training_dataset.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/models/Modifying old code.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/models/Modifying old code.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/models/Modifying old code.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$build_features.coverage" NAME="build_features Coverage Results" MODIFIED="1711739785631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$Data_imputation.coverage" NAME="Data_imputation Coverage Results" MODIFIED="1711488406585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$Data_encoding.coverage" NAME="Data_encoding Coverage Results" MODIFIED="1711571687891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$Bivariate.coverage" NAME="Bivariate Coverage Results" MODIFIED="1711143381983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$Data_dictionary.coverage" NAME="Data_dictionary Coverage Results" MODIFIED="1711047341453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$make_dataset.coverage" NAME="make_dataset Coverage Results" MODIFIED="1711564977262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$Univariate.coverage" NAME="Univariate Coverage Results" MODIFIED="1711144479694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$Make_training_dataset.coverage" NAME="Make_training_dataset Coverage Results" MODIFIED="1711564691514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data" />
+    <SUITE FILE_PATH="coverage/OB_NO_AUTH_14D$train_model.coverage" NAME="train_model Coverage Results" MODIFIED="1711646131950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/models" />
+  </component>
+</project>
