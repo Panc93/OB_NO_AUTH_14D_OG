@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea2137d1-bc31-4baa-8c53-39922786b2ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/OB_NO_AUTH_14D.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/Config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/Db_connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/reports/Code_run_outputs.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/shap_df_sort_index_ascending_True.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/Data_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/Make_training_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/data/Univariate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features/Bivariate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features/Data_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/features/Univariate_feat_selection" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB_NO_AUTH_14D_OG/src/models/Modifying old code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xgboost_14d_tr76_ts74_v0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested_cv_MdGaRaSu_output1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested_cv_Na_la_lr_output1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested_cv_Na_la_lr_output2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested_cv_all_output2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Connection.py" afterDir="false" />
-    </list>
+    <list default="true" id="ea2137d1-bc31-4baa-8c53-39922786b2ec" name="Changes" comment="Commit after building first model with performance of tr76 ts74 and model - Xgboost_14d_tr76_ts74_v0.json" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,8 +116,17 @@
       <workItem from="1711569861654" duration="4806000" />
       <workItem from="1711635194073" duration="2702000" />
       <workItem from="1711643027895" duration="36811000" />
-      <workItem from="1711978435595" duration="19400000" />
+      <workItem from="1711978435595" duration="20721000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit after building first model with performance of tr76 ts74 and model - Xgboost_14d_tr76_ts74_v0.json">
+      <option name="closed" value="true" />
+      <created>1712065896582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712065896582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +134,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit after building first model with performance of tr76 ts74 and model - Xgboost_14d_tr76_ts74_v0.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit after building first model with performance of tr76 ts74 and model - Xgboost_14d_tr76_ts74_v0.json" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
